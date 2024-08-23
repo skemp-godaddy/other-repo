@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Other Repo
-permalink: /projects/my_other_repo/
+title: Other Repo
+permalink: /projects/other_repo/
 parent: Projects
 has_children: true
 ---
