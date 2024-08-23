@@ -1,7 +1,7 @@
 ---
 layout: page
 title: More Pages
-permalink: /more-pages/
-has_children: true
+permalink: /projects/my_other_repo/more_pages/
+parent: My Other Repo
 ---
 # 📚 More Pages
