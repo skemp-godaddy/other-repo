@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Local Setup
-permalink: /other_repo/more_pages/
+permalink: /projects/other_repo/local_setup/
 parent: Fake Service
 grand_parent: Projects
 ---
